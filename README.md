@@ -3,7 +3,7 @@ A temporary webpage for Italian Reproducibility Network
 
 
 
-## Online Seminars on Open Science 2024/25 #4
+## Online Seminars on Open Science 2024/25 #3
 ### Julia Priess-Buchheit
 Wednesday 22 January, 3 pm CET  
 Julia Priess Bucheit, Researcher at Kiel University  
