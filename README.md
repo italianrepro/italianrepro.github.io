@@ -10,6 +10,7 @@ Julia Priess Bucheit, Researcher at Kiel University
 *Open Science Practices and Intellectual Properties*  
 [**Book a virtual place!**](https://us06web.zoom.us/meeting/register/nmpRCkLCQoug2J8m_tzDKw)
 
+
 ### SCIENZA APERTA E INCLUSIVITÀ: ITRN Meeting 2025 - Milano 13/14 Febbraio 2025  
 #### [ISCRIZIONI DISPONIBILI TRAMITE FORM](https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform)
 Il 4° congresso annuale dell'ITRN, **in presenza**, si terrà il **13-14 febbraio 2025** a Milano presso le sedi dell'Università Cattolica del Sacro Cuore (13/02) e dell'Università degli Studi di Milano - Bicocca (14/02).  
