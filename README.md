@@ -1,6 +1,3 @@
----
-layout: default
----
 # Italian Reproducibility Network
 A temporary webpage for Italian Reproducibility Network
 
