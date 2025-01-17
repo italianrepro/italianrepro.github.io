@@ -28,5 +28,5 @@ Di seguito la lista delle candidate e candidati, qui in ordine alfabetico:
 * Vittorio Iacovella [Candidatura e CV](https://drive.google.com/file/d/1PR9Gl9BiOd91HuDG19WLK1DdH3NFxg8x/view?usp=sharing)
 * Claudia Mazzuca [Candidatura e CV](https://drive.google.com/file/d/1VtW4e6lH1q-N8nPDSNcASuF_pHjn_LJu/view?usp=sharing)
 * Maria Montefinese [Candidatura e CV](https://drive.google.com/file/d/1Zpy7j1KFp2C9Amfbioar6aP1x6P7n1nY/view?usp=sharing)
-* Ezia Rizzi [Candidatura e CV](https://drive.google.com/file/d/1RHq8owI5F4i3gkpNmfBw8Wal0xbCO0B4/view?usp=sharing)
+* Ezia Rizzi [Candidatura e CV](https://drive.google.com/file/d/1DsQqkjaR-RgNWsp87WqYp_vVBkNd_TtM/view?usp=drive_link)
 * Michele Scandola [Candidatura e CV](https://drive.google.com/file/d/1IIkOjwvrdFWSJbKS_PJN8PN4Jx7nk0sJ/view?usp=sharing)
