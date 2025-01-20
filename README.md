@@ -16,7 +16,44 @@ Julia Priess Bucheit, Researcher at Kiel University
 Il 4° congresso annuale dell'ITRN, **in presenza**, si terrà il **13-14 febbraio 2025** a Milano presso le sedi dell'Università Cattolica del Sacro Cuore (13/02) e dell'Università degli Studi di Milano - Bicocca (14/02).  
 Il 13 Febbraio sarà una giornata di pre-congresso, durante la quale sarà possibile partecipare a workshop interattivi ed assistere alla relazione inaugurale di Silvia Penati, Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research.  
 La giornata del 14 Febbraio sarà dedicata ad interventi su "Scienza aperta ed inclusività" e alla presentazione dell'attività annuale dei membri ITRN. E' prevista inoltre una sessione di presentazione poster e la presentazione del premio ITRN Award 2024.  
-Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare l'abstract di un poster, [utilizzare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform).
+Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare l'abstract di un poster, [utilizzare l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform).  
+  
+**PROGRAMMA**
+<details>
+<summary> <b>Giorno 1 - Workshop interattivi</b> - Università Cattolica del Sacro Cuore (Largo A. Gemelli, 1, Milano) </summary>
+  <ul><b>10:00</b> - Accoglienza</ul>
+  <ul><b>10:30</b> - Presentazione dei Workshop</ul>
+  <ul><b>11:00 - 16:00</b> - Workshop (a scelta tra 3 proposte. I posti ai workshop sono limitati. Per partecipare, sarà necessario iscriversi tramite l'<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform">apposito form</a> entro il 7 febbraio 2025. )</ul>
+  <ul><b>16:30</b> - Relazione Inaugurale di Silvia Penati, Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research </ul>
+</details>
+<details>
+<summary> <b>Giorno 2 - Meeting annuale ITRN</b> - Università degli Studi di Milano - Bicocca (Piazza dell'Ateneo Nuovo, 1, Milano)</summary>
+   <ul><b>09:30</b> - Apertura iscrizioni</ul>
+  <ul><b>10:20</b> - Scienza aperta e inclusività
+  <ul>
+    <li>Miriam Kip (Berlin Institute of Health @Charité)</li>
+    <li>Elif Ekmekci (TOBB ETU School of Medicine)</li>
+    <li>Giulia Calignano (DPSS - Università di Padova)</li>
+  </ul>
+     </ul>
+  <ul><b>13:00</b> -  Pausa Pranzo / Poster Session. Per presentare un poster, è possibile inviare un abstract entro il 31/01/2025 tramite l'<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform">apposito form</a>. In caso di accettazione, l'organizzazione invierà le istruzioni entro il 7 Febbraio 2025. </ul>
+  <ul><b>14:00</b> - Working Groups e attività dei membri ITRN
+  <ul>
+<li>ITRN - Educational</li>
+<li>ITRN - Data Sharing</li>
+<li>ITRN - Teaching</li>
+<li>ITRN - AI and Experiments</li>
+<li>ITRN - TIDieR extension</li>
+  </ul>
+  </ul>
+  
+  <ul><b>15:00</b> - ITRN Award 2024</ul>
+  <ul><b>16:00</b> - Assemblea dei soci</ul>
+  <ul><b>17:00</b> - Conclusioni e saluti</ul>
+ 
+</details>
+
+L'evento è organizzato da ITRN con il supporto di: Dipartimento di Psicologia - Università di Milano - Bicocca, Dipartimento di Psicologia - Università Cattolica del Sacro Cuore, AIP - Associazione Italiana di Psicologia, Ledizioni - Casa Editrice
 
 ## Elezioni nuovo Steering Committee
 Attualmente sono in corso, fino alle ore 12 del 7 Febbraio 2025, le votazioni per il rinnovo dello Steering Committee di Italian Reproducibility Network. Possono votare tutte/i i membri di ITRN in regola con il pagamento della quota associativa per il 2025. 
