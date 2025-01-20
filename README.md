@@ -21,12 +21,12 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
 **PROGRAMMA**
 <details>
 <summary> <b>Giorno 1 - Workshop interattivi</b> - Università Cattolica del Sacro Cuore (Largo A. Gemelli, 1, Milano) </summary>
+  
   <ul><b>10:00</b> - Accoglienza</ul>
   <ul><b>10:30</b> - Presentazione dei Workshop</ul>
   <ul><b>11:00 - 16:00</b> - Workshop (a scelta tra 3 proposte. I posti ai workshop sono limitati. Per partecipare, sarà necessario iscriversi tramite l'<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform">apposito form</a> entro il 7 febbraio 2025. )</ul>
   <ul><b>16:30</b> - Relazione Inaugurale di Silvia Penati, Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research </ul>
-<details>
-  <summary>Descrizione dei Workshop</summary>
+<details> <summary>Descrizione dei Workshop</summary>
   <details> 
       <summary> <b>Workshop 1</b> - Riproducibilità dei Metodi </summary>
     <br>Migliorare la Trasparenza nel Reporting dei Metodi: Strumenti e Pratiche per una Scienza più Riproducibile<br>
@@ -37,14 +37,16 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
     Infine, ci sarà una fase di discussione interattiva durante la quale esploreremo ulteriori applicazioni della checklist TOM, analizzando insieme le potenzialità e i limiti dello strumento. In questa fase, i partecipanti saranno invitati a condividere idee per migliorare la trasparenza nei loro futuri progetti di ricerca.<br>
     Un possibile esito del seminario sarà quello di identificare e delineare i primi passi per un progetto di ricerca collaborativo.<br>
     </details>
-    <details> 
-      <summary><b>Workshop 2</b> - Fairification dei Dati</summary>
-      <br><em>Carolina Manfredini, Laura Giovinazzi, Margherita Criveller</em><br>
-      La FAIRification dei dati della ricerca rappresenta un processo cruciale per garantire la qualità dei dati e l'affidabilità dei repository utilizzati per la loro archiviazione e condivisione.<br>
-      E’ importante  tenere presente che la semplice apertura dei dati non garantisce un'applicazione corretta dei principi della scienza aperta e non assicura il riuso dei dati stessi né la riproducibilità delle ricerche che li hanno prodotti: avere dati aperti è differente da avere dati FAIR. Un approccio sistematico alla formazione sulle pratiche di una attenta e consapevole gestione dei dati della ricerca può supportare i ricercatori nell'adozione dei principi FAIR in ogni fase del ciclo di vita dei dati.<br>
-      Questo workshop coprirà, pertanto, l'intero processo di gestione dei dati: dalla progettazione iniziale e raccolta dei dati, con l’introduzione alla scrittura di un Data Management Plan, all'archiviazione nei repository e alla pubblicazione dei risultati, concentrandosi in particolare sulla metadatazione e sulla FAIRification dei file contenenti i dati, elementi chiave per potenziare la riproducibilità delle ricerche. Si farà cenno anche a particolari categorie di dati (come i dati sensibili), e al tema del riuso nelle proprie ricerche di dati di terze parti.<br>
-      Il workshop sarà strutturato in moduli teorici, che forniranno una panoramica sulla gestione dei dati nel rispetto dei principi FAIR, seguiti da sessioni pratiche, che consentiranno di integrare questi principi nella quotidianità di tutte le fasi della ricerca. I partecipanti acquisiranno così una comprensione profonda dei vantaggi della FAIRification e dei rischi legati ad una gestione dei dati disattenta, e la consapevolezza che una gestione secondo le migliori pratiche internazionali richiede tempo. L'alternanza tra teoria e pratica permetterà di esplorare come implementare i principi FAIR nelle diverse fasi del processo di ricerca, promuovendo la produzione di dati che siano accessibili, comprensibili, riutilizzabili e di alta qualità.
-    </details>
+  
+  <details> 
+  <summary><b>Workshop 2</b> - Fairification dei Dati</summary>
+  <br><em>Carolina Manfredini, Laura Giovinazzi, Margherita Criveller</em><br>
+  La FAIRification dei dati della ricerca rappresenta un processo cruciale per garantire la qualità dei dati e l'affidabilità dei repository utilizzati per la loro archiviazione e condivisione.<br>
+  E’ importante  tenere presente che la semplice apertura dei dati non garantisce un'applicazione corretta dei principi della scienza aperta e non assicura il riuso dei dati stessi né la riproducibilità delle ricerche che li hanno prodotti: avere dati aperti è differente da avere dati FAIR. Un approccio sistematico alla formazione sulle pratiche di una attenta e consapevole gestione dei dati della ricerca può supportare i ricercatori nell'adozione dei principi FAIR in ogni fase del ciclo di vita dei dati.<br>
+  Questo workshop coprirà, pertanto, l'intero processo di gestione dei dati: dalla progettazione iniziale e raccolta dei dati, con l’introduzione alla scrittura di un Data Management Plan, all'archiviazione nei repository e alla pubblicazione dei risultati, concentrandosi in particolare sulla metadatazione e sulla FAIRification dei file contenenti i dati, elementi chiave per potenziare la riproducibilità delle ricerche. Si farà cenno anche a particolari categorie di dati (come i dati sensibili), e al tema del riuso nelle proprie ricerche di dati di terze parti.<br>
+  Il workshop sarà strutturato in moduli teorici, che forniranno una panoramica sulla gestione dei dati nel rispetto dei principi FAIR, seguiti da sessioni pratiche, che consentiranno di integrare questi principi nella quotidianità di tutte le fasi della ricerca. I partecipanti acquisiranno così una comprensione profonda dei vantaggi della FAIRification e dei rischi legati ad una gestione dei dati disattenta, e la consapevolezza che una gestione secondo le migliori pratiche internazionali richiede tempo. L'alternanza tra teoria e pratica permetterà di esplorare come implementare i principi FAIR nelle diverse fasi del processo di ricerca, promuovendo la produzione di dati che siano accessibili, comprensibili, riutilizzabili e di alta qualità.
+  </details>
+    
   <details> 
       <summary><b>Workshop 3</b> - Preregistrazione</summary>
     <br><em>Un passo verso una ricerca aperta e riproducibile <br> Michela Zambelli </em><br>
@@ -52,8 +54,8 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
     </details>
   
 </details>
-
 </details>
+
 
 <details>
 <summary> <b>Giorno 2 - Meeting annuale ITRN</b> - Università degli Studi di Milano - Bicocca (Piazza dell'Ateneo Nuovo, 1, Milano)</summary>
