@@ -9,6 +9,9 @@ Wednesday 22 January, 3 pm CET
 Julia Priess Bucheit, Researcher at Kiel University  
 *Open Science Practices and Intellectual Properties*  
 [**Book a virtual place!**](https://us06web.zoom.us/meeting/register/nmpRCkLCQoug2J8m_tzDKw)
+Online Seminars on Open Science is a ITRN initiative supported by:  
+Italian Psychology Association (Associazione Italiana di Psicologia, AIP)  
+providing the Zoom account for  the  virtual meetings.
 
 
 ## SCIENZA APERTA E INCLUSIVITÀ: ITRN Meeting 2025 - Milano 13/14 Febbraio 2025  
