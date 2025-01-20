@@ -53,6 +53,7 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
  
 </details>
 
+  
 L'evento è organizzato da ITRN con il supporto di: Dipartimento di Psicologia - Università di Milano - Bicocca, Dipartimento di Psicologia - Università Cattolica del Sacro Cuore, AIP - Associazione Italiana di Psicologia, Ledizioni - Casa Editrice
 
 ## Elezioni nuovo Steering Committee
