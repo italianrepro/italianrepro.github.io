@@ -25,7 +25,36 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
   <ul><b>10:30</b> - Presentazione dei Workshop</ul>
   <ul><b>11:00 - 16:00</b> - Workshop (a scelta tra 3 proposte. I posti ai workshop sono limitati. Per partecipare, sarà necessario iscriversi tramite l'<a href="https://docs.google.com/forms/d/e/1FAIpQLSfBPelYYErXnqUmxDGysRCqZi-bDByIXNVQn4VSQenQJFpCCg/viewform">apposito form</a> entro il 7 febbraio 2025. )</ul>
   <ul><b>16:30</b> - Relazione Inaugurale di Silvia Penati, Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research </ul>
+<details>
+  <summary>Descrizione dei Workshop</summary>
+  <details> 
+      <summary> <b>Workshop 1</b> - Riproducibilità dei Metodi </summary>
+    <br>Migliorare la Trasparenza nel Reporting dei Metodi: Strumenti e Pratiche per una Scienza più Riproducibile<br>
+    <br><em>Federica Conte, Gabriele Fusco, Michela Vezzoli, Cristina Zogmaister</em><br>
+    La trasparenza nel reporting dei metodi è essenziale per garantire riproducibilità, affidabilità e fiducia nei risultati della ricerca. Sebbene pratiche come la preregistrazione degli studi e la condivisione open access dei dati siano ormai abbastanza diffuse, la trasparenza nella descrizione dei metodi è stata finora relativamente trascurata.<br>
+    In questo seminario introdurremo il concetto di trasparenza metodologica, esplorandone l'importanza per il progresso scientifico. Discuteremo come una descrizione dettagliata delle procedure di campionamento, manipolazione e misurazione possa facilitare la replicabilità e permettere un'interpretazione più precisa dei risultati.<br>
+    Successivamente, presenteremo la checklist Transparency Of Methods (TOM), illustrandone la struttura e i criteri di valutazione. Presenteremo anche alcuni risultati iniziali, ottenuti utilizzando la checklist su un campione di articoli pubblicati nel 2011 e nel 2021.<br>Effettueremo poi delle esercitazioni pratiche, in cui i partecipanti applicheranno la checklist a diversi materiali, imparando a riconoscere i livelli di trasparenza nei metodi descritti e a identificare eventuali carenze.<br>
+    Infine, ci sarà una fase di discussione interattiva durante la quale esploreremo ulteriori applicazioni della checklist TOM, analizzando insieme le potenzialità e i limiti dello strumento. In questa fase, i partecipanti saranno invitati a condividere idee per migliorare la trasparenza nei loro futuri progetti di ricerca.<br>
+    Un possibile esito del seminario sarà quello di identificare e delineare i primi passi per un progetto di ricerca collaborativo.<br>
+    </details>
+    <details> 
+      <summary><b>Workshop 2</b> - Fairification dei Dati</summary>
+      <br><em>Carolina Manfredini, Laura Giovinazzi, Margherita Criveller</em><br>
+      La FAIRification dei dati della ricerca rappresenta un processo cruciale per garantire la qualità dei dati e l'affidabilità dei repository utilizzati per la loro archiviazione e condivisione.<br>
+      E’ importante  tenere presente che la semplice apertura dei dati non garantisce un'applicazione corretta dei principi della scienza aperta e non assicura il riuso dei dati stessi né la riproducibilità delle ricerche che li hanno prodotti: avere dati aperti è differente da avere dati FAIR. Un approccio sistematico alla formazione sulle pratiche di una attenta e consapevole gestione dei dati della ricerca può supportare i ricercatori nell'adozione dei principi FAIR in ogni fase del ciclo di vita dei dati.<br>
+      Questo workshop coprirà, pertanto, l'intero processo di gestione dei dati: dalla progettazione iniziale e raccolta dei dati, con l’introduzione alla scrittura di un Data Management Plan, all'archiviazione nei repository e alla pubblicazione dei risultati, concentrandosi in particolare sulla metadatazione e sulla FAIRification dei file contenenti i dati, elementi chiave per potenziare la riproducibilità delle ricerche. Si farà cenno anche a particolari categorie di dati (come i dati sensibili), e al tema del riuso nelle proprie ricerche di dati di terze parti.<br>
+      Il workshop sarà strutturato in moduli teorici, che forniranno una panoramica sulla gestione dei dati nel rispetto dei principi FAIR, seguiti da sessioni pratiche, che consentiranno di integrare questi principi nella quotidianità di tutte le fasi della ricerca. I partecipanti acquisiranno così una comprensione profonda dei vantaggi della FAIRification e dei rischi legati ad una gestione dei dati disattenta, e la consapevolezza che una gestione secondo le migliori pratiche internazionali richiede tempo. L'alternanza tra teoria e pratica permetterà di esplorare come implementare i principi FAIR nelle diverse fasi del processo di ricerca, promuovendo la produzione di dati che siano accessibili, comprensibili, riutilizzabili e di alta qualità.
+    </details>
+  <details> 
+      <summary><b>Workshop 3</b> - Preregistrazione</summary>
+    <br><em>Un passo verso una ricerca aperta e riproducibile <br> Michela Zambelli </em><br>
+    Il workshop è dedicato a studenti e ricercatori interessati ad avvicinarsi all’utilizzo della preregistrazione come strumento per migliorare la trasparenza e la riproducibilità della propria attività di ricerca. Durante la prima parte del workshop, verranno affrontati i concetti fondamentali legati alla preregistrazione e alla sua importanza per la promozione di una scienza aperta e riproducibile. In particolare, si risponderà alle domande più comuni che sorgono al primo approccio con questo strumento, come: Cosa significa preregistrare uno studio? Quali sono le differenze tra preregistrazione e registered report? Quando è opportuno preregistrare uno studio? Perché è utile preregistrare uno studio? A seguire, verranno illustrati gli step operativi necessari per realizzare una preregistrazione utilizzando la piattaforma Open Science Framework (OSF). Nella seconda parte del workshop, i partecipanti avranno l’opportunità di mettere in pratica quanto appreso, cimentandosi nella creazione di una preregistrazione per un proprio progetto di ricerca su OSF. Il workshop si concluderà con una sessione di condivisione e discussione aperta, in cui i partecipanti potranno presentare i propri lavori, scambiare feedback e confrontarsi sulle sfide e le opportunità della preregistrazione come strumento chiave della scienza aperta.
+    </details>
+  
 </details>
+
+</details>
+
 <details>
 <summary> <b>Giorno 2 - Meeting annuale ITRN</b> - Università degli Studi di Milano - Bicocca (Piazza dell'Ateneo Nuovo, 1, Milano)</summary>
    <ul><b>09:30</b> - Apertura iscrizioni</ul>
@@ -54,7 +83,7 @@ Per iscriversi ai workshop del 13 Febbraio, al meeting del 14 Febbraio e inviare
 </details>
 
   
-L'evento è organizzato da ITRN con il supporto di: Dipartimento di Psicologia - Università di Milano - Bicocca, Dipartimento di Psicologia - Università Cattolica del Sacro Cuore, AIP - Associazione Italiana di Psicologia, Ledizioni - Casa Editrice
+<ul> L'evento è organizzato da ITRN con il supporto di: Dipartimento di Psicologia - Università di Milano - Bicocca, Dipartimento di Psicologia - Università Cattolica del Sacro Cuore, AIP - Associazione Italiana di Psicologia, Ledizioni - Casa Editrice </ul>
 
 ## Elezioni nuovo Steering Committee
 Attualmente sono in corso, fino alle ore 12 del 7 Febbraio 2025, le votazioni per il rinnovo dello Steering Committee di Italian Reproducibility Network. Possono votare tutte/i i membri di ITRN in regola con il pagamento della quota associativa per il 2025. 
